@@ -1,5 +1,20 @@
 # <h1 align="center"></>Dilip Shrestha<h1/> 
 
+<h3 align="center">A passionate and aspiring Software Engineerr</h3>
+
+- 🔭 I’m currently working on **Deeyo Soft Solutions PVT.LTD**
+
+- 🌱 I’m currently learning **Node.js, React**
+
+- 💬 Ask me about **Coding**
+
+- 📫 How to reach me **dilipshrestha503@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dilip-shrestha-560828246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gurung" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dilip__shrestha/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilip__shrestha" height="30" width="40" /></a>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
