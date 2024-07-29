@@ -13,6 +13,8 @@
 - 💬 Ask me about **Coding**
 
 - 📫 How to reach me **dilipshrestha503@gmail.com**
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +38,10 @@
 
 ![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipsth&show_icons=true&theme=gruvbox)
 
+<p align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 
 
