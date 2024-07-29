@@ -1,6 +1,6 @@
 # <h1 align="center"></>Dilip Shrestha<h1/> 
 
-<h3 align="center">A passionate and aspiring Software Engineerr</h3>
+<h2 align="center">A passionate and aspiring Software Engineerr</h2>
 
 - 🔭 I’m currently working on **Deeyo Soft Solutions PVT.LTD**
 
@@ -9,7 +9,6 @@
 - 💬 Ask me about **Coding**
 
 - 📫 How to reach me **dilipshrestha503@gmail.com**
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +36,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipsth&show_icons=true&locale=en&layout=compact" alt="Dilip Shrestha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsth&" alt="Dilip Shrestha" /></p>
+
+![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipsth&show_icons=true&theme=gruvbox)
 
 
 
