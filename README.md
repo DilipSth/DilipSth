@@ -1,7 +1,6 @@
 <h1 align="center">🏄‍♂️ Dilip Shrestha</h1>
 <h3 align="center">A passionate and aspiring Software Engineerr</h3>
 <br />
-
 - 🔭 I’m currently working on **Deeyo Soft Solutions PVT.LTD**
 
 - 🌱 I’m currently learning **Node.js, React**
