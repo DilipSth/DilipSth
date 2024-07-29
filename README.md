@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" style="width: 100%; height: 400px; display: block; margin: 0 auto;">
+<img align="center" alt="coding" width="full" height="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <h1 align="center">🏄‍♂️ Dilip Shrestha</h1>
 <h3 align="center">A passionate and aspiring Software Engineerr</h3>
